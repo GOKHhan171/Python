@@ -1,0 +1,7 @@
+list=(21,22,30,80,100)
+   print(list)
+
+
+list=(21,22,30,80,100) 
+list.remove(4)
+   print(list)
